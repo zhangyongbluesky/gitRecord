@@ -2,7 +2,7 @@ How to set diff tool
 =========================== 
 
 ##config path : 
-C:\Users\rockiezhang\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\mingw32\etc  (rely on os system and must modify the global config)
+C:\Users\rockiezhang\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420ab5ff403f1808b9\mingw32\etc  (rely on os system and must modify the  global test config)
 
 
 ##windows diff and merge init config:
