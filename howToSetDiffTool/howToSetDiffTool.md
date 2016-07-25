@@ -27,4 +27,8 @@ windows diff and merge init config:
 	trustExitCode = true
 [mergetool "p4"]
 	cmd = \"c:/program files/Perforce/p4merge.exe\" \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
+	
+##use command
+git difftool filename
+git mergetool
 
