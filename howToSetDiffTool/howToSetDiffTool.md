@@ -32,4 +32,8 @@ C:\Users\rockiezhang\AppData\Local\GitHub\PortableGit_cf76fc1621ac41ad4fe86c420a
 	trustExitCode = true
 [mergetool "p4"]
 	cmd = \"c:/program files/Perforce/p4merge.exe\" \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
+	
+##use command
+git difftool filename
+git mergetool
 
